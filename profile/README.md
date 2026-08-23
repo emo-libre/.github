@@ -1,3 +1,4 @@
+![Organization Banner](libre-emo-banner.png)
 # Knowledge bank, tools, and reverse engineering for EMO by living.ai
 
 This project is to collect and document tools and knowledge of [EMO the desktop robot pet by living.ai](https://living.ai/emo/).

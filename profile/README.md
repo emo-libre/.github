@@ -10,6 +10,7 @@ To support our efforts we develop tools. Here are some of them:
 
 - [EmoProxy](https://github.com/emo-libre/Proxy) - A proxy server to monitor and investigate the api calls between EMO and the living.ai servers.
 - [Docker setup for EMO Proxy by SebbeJohansson](https://github.com/emo-libre/emo-proxy-docker) - A simplified setup for using the EMO Proxy.
+- [EmoProxy WebUI](https://github.com/emo-libre/WebUI) - A simplified Web UI to monitor the Proxy.
 
 ## Documentation
 
